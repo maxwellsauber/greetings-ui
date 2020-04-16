@@ -1,0 +1,22 @@
+.form {
+  margin: 60px auto;
+  text-align: center;
+  width: 50%;
+}
+
+.intro, .greeting {
+  margin: 20px 0;
+}
+
+.intro {
+  font-size: 28px;
+  font-weight: 600;  
+}
+
+input {
+  font-size: 20px;
+}
+
+.greeting {
+  font-size: 22px;
+}
