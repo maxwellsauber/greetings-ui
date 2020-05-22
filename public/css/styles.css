@@ -1,0 +1,21 @@
+body{
+  color: fuchsia;
+  background-color: yellow;
+  font-family: comic-sans, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+}
+
+input {
+  border-radius: 8px;
+  border-color: orange;
+  font-size: 18px;
+  padding: 10px;
+  margin: 20px 0;
+  outline: none;
+  width:35%;
+}
